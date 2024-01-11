@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Hansa Sandamal
 Software Engineer | Bsc(hons) in Software Engineering | University of Kelaniya SriLanka.
+
 ![WhatsApp Image 2024-01-08 at ](https://github.com/HansaSandamal/HansaSandamal/assets/48385589/5264b6a7-2dc6-426d-8566-3d8baa3f65ca)
+
+🌐 Let's connect and explore the world of code together! Feel free to explore my repositories and reach out for collaborations or discussions. Happy coding! 💻✨
 <!--
 **HansaSandamal/HansaSandamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
